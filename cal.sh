@@ -23,3 +23,6 @@ esac
 echo "Result: $res"
 
 echo "Result: $res"
+echo "Result: $res"
+echo "Result: $res"
+echo "Result: $res"
