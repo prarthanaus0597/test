@@ -22,6 +22,3 @@ case $ch in
 esac
 echo "Result: $res"
 
-echo "Result: $res"
-echo "Result: $res"
-echo "Result: $res"
