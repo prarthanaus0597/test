@@ -21,4 +21,4 @@ case $ch in
 	
 esac
 echo "Result: $res"
-echo "Hello"
+
